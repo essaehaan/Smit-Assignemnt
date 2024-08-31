@@ -75,10 +75,19 @@ console.log(fruits);
 
 //Start Assignament No# 5 (Chapter 21-25)
 
-function calculateTotal(subTotal, tax){
-    
-} 
-calculateTotal(20, 15)
+function calculateTotal(subTotal, tax) {
+    return subTotal + tax;
+}
+
+
+let order1, order2, order3;
+order1 = calculateTotal(100, 15); 
+order2 = calculateTotal(200, 30); 
+order3 = calculateTotal(300, 45); 
+
+console.log("Order 1 Total:" + order1);
+console.log("Order 2 Total:" + order2);
+console.log("Order 3 Total:" + order3);
 
 //End Assignament No# 5 (Chapter 21-25)
 
