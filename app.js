@@ -58,17 +58,28 @@ console.log(message);
 
 // ______________________________________________________________________
 
-//Start Assignament No# 4 (Chapter 12-15)
+//Start Assignament No# 4 (Chapter 16-20)
 
-// const score1 = 45;
-// const score2 = 15;
-// const score3 = 50;
+let fruits = ["apples", "orange" ,"pineapple", "mango", 42]
+console.log(fruits);
+let istFruit = fruits[0];
+console.log(istFruit);
+fruits[4] = "grapes"
+console.log(fruits);
 
-// let totalScore = "Our Total Score is" + " " + (score1 + score2 + score3)
 
-// let avgScore = "Our Average Score is" + " " + (score1 + score2 + score3 / 3)
+//End Assignament No# 4 (Chapter 16-20)
+
+// ______________________________________________________________________
 
 
-//End Assignament No# 3 (Chapter 12-15)
+//Start Assignament No# 5 (Chapter 21-25)
+
+function calculateTotal(subTotal, tax){
+    
+} 
+calculateTotal(20, 15)
+
+//End Assignament No# 5 (Chapter 21-25)
 
 // ______________________________________________________________________
