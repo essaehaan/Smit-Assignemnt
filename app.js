@@ -91,4 +91,6 @@ console.log("Order 3 Total:" + order3);
 
 //End Assignament No# 5 (Chapter 21-25)
 
+alert("Copyright Mohd Essa - 262915")
+
 // ______________________________________________________________________
