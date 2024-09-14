@@ -15,5 +15,6 @@
  let maincities = cities.slice(0, 2)
  console.log(maincities)
 
+alert("Copyright Mohd Essa - 262915")
 
 
