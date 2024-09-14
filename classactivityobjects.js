@@ -51,6 +51,6 @@ let person2 ={
     console.log("you both have not permission")
    }
 
-alert("Copyright Mohd Essa 262915")
+alert("Copyright Mohd Essa - 262915")
 
  
